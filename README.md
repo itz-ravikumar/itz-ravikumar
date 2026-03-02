@@ -1,17 +1,12 @@
-## Hi there 👋
-new_nnn
+## 👋 Hi, I'm Ravi Kumar
 
-<!--
-**itz-ravikumar/itz-ravikumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Engineering student focused on exploring Artificial Intelligence.
 
-Here are some ideas to get you started:
+I enjoy building practical AI-driven systems that solve real business problems.  
+Currently exploring:
 
-- 🔭 I’m currentlynnn_jkjk working on AI ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 AI agents (n8n, automation workflows)
+
+My goal is to build scalable, startup that create measurable impact.
+
+🚀 Always learning. Always building.
