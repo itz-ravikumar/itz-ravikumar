@@ -1,4 +1,4 @@
-<!-- Header Banner -->
+<!-- HEADER BANNER -->
 
 <div align="center">
 
@@ -8,9 +8,11 @@
 
 ---
 
+<!-- TYPING ANIMATION -->
+
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=AI+Automation+Developer;JavaScript+%7C+Python+Developer;Building+AI+Agents+%26+Automation;Exploring+FinTech+Systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=AI+Automation+Developer;JavaScript+%7C+Python+Developer;Building+AI+Agents+%26+Automation;Exploring+FinTech+Systems" />
 
 </p>
 
@@ -37,7 +39,7 @@
 Hi, I'm **Ravi Kumar**, a developer passionate about building **AI-powered automation systems and practical software tools**.
 
 * 🎓 Diploma in **Computer Science Engineering**
-* 🤖 Building **AI agents and automation workflows**
+* 🤖 Building **AI Agents & Automation Workflows**
 * ⚙️ Exploring **n8n automation systems**
 * 💡 Interested in **AI products and FinTech innovation**
 * 🚀 Goal: Build **scalable AI-powered systems**
@@ -78,11 +80,19 @@ Hi, I'm **Ravi Kumar**, a developer passionate about building **AI-powered autom
 
 ---
 
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge)
+
+---
+
 # 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=itz-ravikumar&theme=tokyonight&no-frame=true&no-bg=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=itz-ravikumar&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 
 </div>
 
@@ -104,6 +114,16 @@ Hi, I'm **Ravi Kumar**, a developer passionate about building **AI-powered autom
 
 ---
 
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-ravikumar&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
 # 🔥 3D Contribution Calendar
 
 <div align="center">
@@ -114,11 +134,13 @@ Hi, I'm **Ravi Kumar**, a developer passionate about building **AI-powered autom
 
 ---
 
-# 🧠 AI Coding Activity Tracker
+# 🧠 AI Coding Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=itz-ravikumar&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itz-ravikumar&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itz-ravikumar&theme=tokyonight"/>
 
 </div>
 
@@ -128,7 +150,7 @@ Hi, I'm **Ravi Kumar**, a developer passionate about building **AI-powered autom
 
 <div align="center">
 
-<img src="https://profile-counter.glitch.me/itz-ravikumar/count.svg"/>
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/itz-ravikumar&count_bg=%232563EB&title_bg=%231E293B&icon=github.svg&icon_color=%23FFFFFF&title=Visitors&edge_flat=false"/>
 
 </div>
 
@@ -138,17 +160,9 @@ Hi, I'm **Ravi Kumar**, a developer passionate about building **AI-powered autom
 
 <div align="center">
 
-<img src="https://metrics.lecoq.io/itz-ravikumar?template=classic&config.timezone=Asia%2FCalcutta"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itz-ravikumar&theme=tokyonight"/>
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itz-ravikumar&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itz-ravikumar&theme=tokyonight&utcOffset=5"/>
 
 </div>
 
@@ -168,20 +182,26 @@ Hi, I'm **Ravi Kumar**, a developer passionate about building **AI-powered autom
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ravi-kumar-186984301)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/itz-ravikumar)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/ravi-kumar-186984301)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram)](https://www.instagram.com/_ravirauniyar/)
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail)](mailto:ravibug2009@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge\&logo=discord)](https://discord.com)
+
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail)](mailto:ravibug2009@gmail.com)
 
 </div>
+
+
 
 ---
 
 <div align="center">
 
-⭐ *Building intelligent systems with AI, automation, and code.*
+⭐ *"Building intelligent systems with AI, automation, and code."*
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=120&section=footer"/>
+
