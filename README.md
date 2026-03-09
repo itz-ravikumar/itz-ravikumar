@@ -12,7 +12,7 @@
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=AI+Automation+Developer;JavaScript+%7C+Python+Developer;Building+AI+Agents+%26+Automation;Exploring+FinTech+Systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=600&lines=AI+Automation+Developer;JavaScript+%7C+Agent+Developer;Building+AI+Agents+%26+Automation;Exploring+FinTech+Systems" />
 
 </p>
 
