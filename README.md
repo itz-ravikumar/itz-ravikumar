@@ -84,7 +84,6 @@ Hi, I'm **Ravi Kumar**, a developer passionate about building **AI-powered autom
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge)
 
 ---
