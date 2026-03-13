@@ -64,6 +64,7 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 | Developer Portfolio  | Personal developer website                         | HTML CSS JS |
 | AI Experiments       | Building small AI automation tools                 | Python      |
 
+
 ---
 
 # 🛠 Tech Stack
@@ -171,6 +172,16 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
