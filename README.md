@@ -153,6 +153,197 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 
 ---
 
+# 📊 Language & Framework Distribution
+
+### Languages Used
+
+<div align="center">
+
+| Language | Usage | Proficiency |
+|----------|-------|-------------|
+| **Python** | 🟧🟧🟧🟧🟧 | 90% |
+| **JavaScript** | 🟦🟦🟦🟦⬜ | 80% |
+| **TypeScript** | 🟦🟦🟦⬜⬜ | 75% |
+| **SQL** | 🟨🟨🟨🟨⬜ | 85% |
+| **C++** | 🟩🟩🟩⬜⬜ | 70% |
+| **Bash** | 🟪🟪🟪⬜⬜ | 75% |
+| **HTML/CSS** | 🟥🟥🟥🟥⬜ | 85% |
+
+</div>
+
+---
+
+### Frameworks & Tools Ecosystem
+
+<div align="center">
+
+| Category | Technology | Status |
+|----------|-----------|--------|
+| **Workflow Automation** | n8n | ⭐⭐⭐⭐⭐ |
+| **Frontend Framework** | React (19 + Vite) | ⭐⭐⭐⭐⭐ |
+| **Backend Runtime** | Node.js | ⭐⭐⭐⭐⭐ |
+| **Backend Framework** | FastAPI | ⭐⭐⭐⭐⭐ |
+| **AI/LLM Orchestration** | LangChain | ⭐⭐⭐⭐⭐ |
+| **Distributed AI** | CrewAI | ⭐⭐⭐⭐⭐ |
+| **Build Tool** | Vite | ⭐⭐⭐⭐⭐ |
+| **Styling** | TailwindCSS | ⭐⭐⭐⭐⭐ |
+| **Database** | MySQL | ⭐⭐⭐⭐⭐ |
+| **Version Control** | Git/GitHub | ⭐⭐⭐⭐⭐ |
+
+</div>
+
+---
+
+### Tech Stack Breakdown
+
+<svg viewBox="0 0 900 500" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px;">
+  <!-- Title -->
+  <text x="450" y="30" font-size="28" font-weight="bold" fill="#60a5fa" text-anchor="middle">Languages Distribution</text>
+  
+  <!-- Python -->
+  <rect x="50" y="70" width="150" height="40" fill="#3776AB" rx="8"/>
+  <text x="125" y="100" font-size="16" font-weight="bold" fill="white" text-anchor="middle">Python</text>
+  <rect x="50" y="115" width="150" height="25" fill="#334155" rx="4"/>
+  <rect x="50" y="115" width="135" height="25" fill="#10b981" rx="4"/>
+  <text x="125" y="135" font-size="12" fill="white" text-anchor="middle">90%</text>
+  
+  <!-- JavaScript -->
+  <rect x="250" y="70" width="150" height="40" fill="#F7DF1E" rx="8"/>
+  <text x="325" y="100" font-size="16" font-weight="bold" fill="#0f172a" text-anchor="middle">JavaScript</text>
+  <rect x="250" y="115" width="150" height="25" fill="#334155" rx="4"/>
+  <rect x="250" y="115" width="120" height="25" fill="#3b82f6" rx="4"/>
+  <text x="325" y="135" font-size="12" fill="white" text-anchor="middle">80%</text>
+  
+  <!-- TypeScript -->
+  <rect x="450" y="70" width="150" height="40" fill="#3178C6" rx="8"/>
+  <text x="525" y="100" font-size="16" font-weight="bold" fill="white" text-anchor="middle">TypeScript</text>
+  <rect x="450" y="115" width="150" height="25" fill="#334155" rx="4"/>
+  <rect x="450" y="115" width="112" height="25" fill="#8b5cf6" rx="4"/>
+  <text x="525" y="135" font-size="12" fill="white" text-anchor="middle">75%</text>
+  
+  <!-- SQL -->
+  <rect x="650" y="70" width="150" height="40" fill="#CC2927" rx="8"/>
+  <text x="725" y="100" font-size="16" font-weight="bold" fill="white" text-anchor="middle">SQL</text>
+  <rect x="650" y="115" width="150" height="25" fill="#334155" rx="4"/>
+  <rect x="650" y="115" width="127" height="25" fill="#f59e0b" rx="4"/>
+  <text x="725" y="135" font-size="12" fill="white" text-anchor="middle">85%</text>
+  
+  <!-- C++ -->
+  <rect x="50" y="170" width="150" height="40" fill="#00599C" rx="8"/>
+  <text x="125" y="200" font-size="16" font-weight="bold" fill="white" text-anchor="middle">C++</text>
+  <rect x="50" y="215" width="150" height="25" fill="#334155" rx="4"/>
+  <rect x="50" y="215" width="105" height="25" fill="#ec4899" rx="4"/>
+  <text x="125" y="235" font-size="12" fill="white" text-anchor="middle">70%</text>
+  
+  <!-- Bash -->
+  <rect x="250" y="170" width="150" height="40" fill="#4EAA25" rx="8"/>
+  <text x="325" y="200" font-size="16" font-weight="bold" fill="white" text-anchor="middle">Bash</text>
+  <rect x="250" y="215" width="150" height="25" fill="#334155" rx="4"/>
+  <rect x="250" y="215" width="112" height="25" fill="#06b6d4" rx="4"/>
+  <text x="325" y="235" font-size="12" fill="white" text-anchor="middle">75%</text>
+  
+  <!-- HTML/CSS -->
+  <rect x="450" y="170" width="150" height="40" fill="#E34F26" rx="8"/>
+  <text x="525" y="200" font-size="16" font-weight="bold" fill="white" text-anchor="middle">HTML/CSS</text>
+  <rect x="450" y="215" width="150" height="25" fill="#334155" rx="4"/>
+  <rect x="450" y="215" width="127" height="25" fill="#14b8a6" rx="4"/>
+  <text x="525" y="235" font-size="12" fill="white" text-anchor="middle">85%</text>
+  
+  <!-- Legend -->
+  <text x="50" y="310" font-size="16" font-weight="bold" fill="#60a5fa">📚 Proficiency Levels:</text>
+  <rect x="50" y="330" width="15" height="15" fill="#10b981" rx="2"/>
+  <text x="75" y="342" font-size="12" fill="#cbd5e1">Mastery (85-100%)</text>
+  
+  <rect x="250" y="330" width="15" height="15" fill="#3b82f6" rx="2"/>
+  <text x="275" y="342" font-size="12" fill="#cbd5e1">Advanced (70-84%)</text>
+  
+  <rect x="500" y="330" width="15" height="15" fill="#f59e0b" rx="2"/>
+  <text x="525" y="342" font-size="12" fill="#cbd5e1">Intermediate (50-69%)</text>
+</svg>
+
+---
+
+### Framework & Tools Ecosystem
+
+<svg viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg" style="max-width: 100%; height: auto; background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); border-radius: 12px; padding: 20px;">
+  <!-- Title -->
+  <text x="450" y="30" font-size="28" font-weight="bold" fill="#60a5fa" text-anchor="middle">Frameworks & Tools Stack</text>
+  
+  <!-- AI/Automation Section -->
+  <rect x="30" y="60" width="260" height="180" fill="#1e293b" stroke="#2563eb" stroke-width="2" rx="8"/>
+  <text x="160" y="85" font-size="16" font-weight="bold" fill="#60a5fa" text-anchor="middle">🤖 AI & Automation</text>
+  <circle cx="70" cy="130" r="20" fill="#FF6B35"/>
+  <text x="160" y="135" font-size="12" fill="white">n8n Workflow</text>
+  <circle cx="70" cy="160" r="20" fill="#1C3C3C"/>
+  <text x="160" y="165" font-size="12" fill="white">LangChain</text>
+  <circle cx="70" cy="190" r="20" fill="#22c55e"/>
+  <text x="160" y="195" font-size="12" fill="white">CrewAI</text>
+  <circle cx="70" cy="220" r="20" fill="#0ea5e9"/>
+  <text x="160" y="225" font-size="12" fill="white">LangGraph</text>
+  
+  <!-- Frontend Section -->
+  <rect x="320" y="60" width="260" height="180" fill="#1e293b" stroke="#2563eb" stroke-width="2" rx="8"/>
+  <text x="450" y="85" font-size="16" font-weight="bold" fill="#60a5fa" text-anchor="middle">💻 Frontend</text>
+  <circle cx="360" cy="130" r="20" fill="#61DAFB"/>
+  <text x="450" y="135" font-size="12" fill="white">React 19</text>
+  <circle cx="360" cy="160" r="20" fill="#646CFF"/>
+  <text x="450" y="165" font-size="12" fill="white">Vite</text>
+  <circle cx="360" cy="190" r="20" fill="#06b6d4"/>
+  <text x="450" y="195" font-size="12" fill="white">TailwindCSS</text>
+  <circle cx="360" cy="220" r="20" fill="#3178C6"/>
+  <text x="450" y="225" font-size="12" fill="white">TypeScript</text>
+  
+  <!-- Backend Section -->
+  <rect x="610" y="60" width="260" height="180" fill="#1e293b" stroke="#2563eb" stroke-width="2" rx="8"/>
+  <text x="740" y="85" font-size="16" font-weight="bold" fill="#60a5fa" text-anchor="middle">⚙️ Backend</text>
+  <circle cx="650" cy="130" r="20" fill="#339933"/>
+  <text x="740" y="135" font-size="12" fill="white">Node.js</text>
+  <circle cx="650" cy="160" r="20" fill="#009688"/>
+  <text x="740" y="165" font-size="12" fill="white">FastAPI</text>
+  <circle cx="650" cy="190" r="20" fill="#CC2927"/>
+  <text x="740" y="195" font-size="12" fill="white">MySQL</text>
+  <circle cx="650" cy="220" r="20" fill="#4EAA25"/>
+  <text x="740" y="225" font-size="12" fill="white">Python</text>
+  
+  <!-- Development Tools Section -->
+  <rect x="30" y="280" width="260" height="180" fill="#1e293b" stroke="#2563eb" stroke-width="2" rx="8"/>
+  <text x="160" y="305" font-size="16" font-weight="bold" fill="#60a5fa" text-anchor="middle">🛠️ Dev Tools</text>
+  <circle cx="70" cy="350" r="20" fill="#F05032"/>
+  <text x="160" y="355" font-size="12" fill="white">Git/GitHub</text>
+  <circle cx="70" cy="380" r="20" fill="#0078D4"/>
+  <text x="160" y="385" font-size="12" fill="white">VS Code</text>
+  <circle cx="70" cy="410" r="20" fill="#339933"/>
+  <text x="160" y="415" font-size="12" fill="white">Node.js</text>
+  <circle cx="70" cy="440" r="20" fill="#F7DF1E"/>
+  <text x="160" y="445" font-size="12" fill="white">npm/yarn</text>
+  
+  <!-- Database & APIs Section -->
+  <rect x="320" y="280" width="260" height="180" fill="#1e293b" stroke="#2563eb" stroke-width="2" rx="8"/>
+  <text x="450" y="305" font-size="16" font-weight="bold" fill="#60a5fa" text-anchor="middle">💾 Data & APIs</text>
+  <circle cx="360" cy="350" r="20" fill="#CC2927"/>
+  <text x="450" y="355" font-size="12" fill="white">MySQL</text>
+  <circle cx="360" cy="380" r="20" fill="#00d9ff"/>
+  <text x="450" y="385" font-size="12" fill="white">RESTful APIs</text>
+  <circle cx="360" cy="410" r="20" fill="#0ea5e9"/>
+  <text x="450" y="415" font-size="12" fill="white">Google Sheets</text>
+  <circle cx="360" cy="440" r="20" fill="#6366f1"/>
+  <text x="450" y="445" font-size="12" fill="white">Vector DB</text>
+  
+  <!-- Specialized Section -->
+  <rect x="610" y="280" width="260" height="180" fill="#1e293b" stroke="#2563eb" stroke-width="2" rx="8"/>
+  <text x="740" y="305" font-size="16" font-weight="bold" fill="#60a5fa" text-anchor="middle">🚀 Specialized</text>
+  <circle cx="650" cy="350" r="20" fill="#0ea5e9"/>
+  <text x="740" y="355" font-size="12" fill="white">MCP Servers</text>
+  <circle cx="650" cy="380" r="20" fill="#ec4899"/>
+  <text x="740" y="385" font-size="12" fill="white">Claude API</text>
+  <circle cx="650" cy="410" r="20" fill="#8b5cf6"/>
+  <text x="740" y="415" font-size="12" fill="white">LLM Fine-tune</text>
+  <circle cx="650" cy="440" r="20" fill="#14b8a6"/>
+  <text x="740" y="445" font-size="12" fill="white">RAG Pipelines</text>
+</svg>
+
+---
+
 # 📚 Languages & Frameworks by Repository
 
 | Repository | Primary Language | Frameworks/Tools | Focus |
