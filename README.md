@@ -73,17 +73,51 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
 ---
 
-### Tools
+### AI & Automation Tools
+
+![n8n](https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge\&logo=n8n\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge\&logo=chainlink\&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+
+### Development Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+# 📊 Languages & Frameworks Dashboard
+
+<div align="center">
+
+**Real-time analysis of languages and frameworks used across repositories**
+
+[![View Interactive Dashboard](https://img.shields.io/badge/📊%20View%20Interactive%20Dashboard-2563eb?style=for-the-badge)](https://itz-ravikumar.github.io/languages-dashboard/languages-dashboard.html)
+
+</div>
+
+<div align="center">
+
+<img height="400" src="https://via.placeholder.com/800x400?text=Interactive+Languages+Dashboard" alt="Languages Dashboard"/>
+
+</div>
+
+> 🔄 **Live Data** — Fetches real-time data from GitHub API  
+> 🎯 **Interactive Charts** — Click on languages to see repositories  
+> 📈 **Two Views** — By Repository Count & By Commit Size  
+> ⚡ **Instant Updates** — Refresh button for latest stats
 
 ---
 
@@ -202,8 +236,6 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 
 </div>
 
-
-
 ---
 
 <div align="center">
@@ -213,4 +245,3 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:2563eb&height=120&section=footer"/>
-
