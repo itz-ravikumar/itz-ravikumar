@@ -64,7 +64,6 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 | Developer Portfolio  | Personal developer website                         | HTML CSS JS |
 | AI Experiments       | Building small AI automation tools                 | Python      |
 
-
 ---
 
 # 🛠 Tech Stack
@@ -79,6 +78,7 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
 ---
 
@@ -89,6 +89,9 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
 
 ### Development Tools
 
@@ -98,26 +101,66 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 
 ---
 
-# 📊 Languages & Frameworks Dashboard
+# 📊 Languages & Frameworks Breakdown
 
 <div align="center">
 
-**Real-time analysis of languages and frameworks used across repositories**
+## Top Languages by Repository & Commit
 
-[![View Interactive Dashboard](https://img.shields.io/badge/📊%20View%20Interactive%20Dashboard-2563eb?style=for-the-badge)](https://itz-ravikumar.github.io/languages-dashboard/languages-dashboard.html)
+```
+┌─────────────────────────────────────────────────────────┐
+│  LANGUAGE BY REPOS          │  LANGUAGE BY COMMITS      │
+├─────────────────────────────────────────────────────────┤
+│  🐍 Python        ████████  │  🐍 Python        ██████  │
+│  📜 JavaScript    ██████    │  📜 JavaScript    ████    │
+│  📘 TypeScript    █████     │  📘 TypeScript    ███     │
+│  🏗️ HTML          ████      │  🎨 CSS           ██      │
+│  🎨 CSS           ███       │  📓 Jupyter       ██      │
+│  ⚙️ C++           ██        │  🗄️ SQL           █       │
+│  🔧 Bash          ██        │  🔧 C             █       │
+│  ☕ Java          █         │  ⚙️ C++           █       │
+└─────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-<div align="center">
-
-<img height="400" src="https://via.placeholder.com/800x400?text=Interactive+Languages+Dashboard" alt="Languages Dashboard"/>
-
-</div>
-
-> 🔄 **Live Data** — Fetches real-time data from GitHub API  
-> 🎯 **Interactive Charts** — Click on languages to see repositories  
-> 📈 **Two Views** — By Repository Count & By Commit Size  
-> ⚡ **Instant Updates** — Refresh button for latest stats
+<table align="center">
+  <tr>
+    <th>🏆 Framework/Tool</th>
+    <th>📈 Usage Level</th>
+    <th>🎯 Primary Use</th>
+  </tr>
+  <tr>
+    <td><b>n8n</b> ⚙️</td>
+    <td>████████░ Expert</td>
+    <td>Workflow Automation</td>
+  </tr>
+  <tr>
+    <td><b>React</b> ⚛️</td>
+    <td>███████░░ Advanced</td>
+    <td>Frontend Development</td>
+  </tr>
+  <tr>
+    <td><b>FastAPI</b> 🚀</td>
+    <td>███████░░ Advanced</td>
+    <td>Backend APIs</td>
+  </tr>
+  <tr>
+    <td><b>LangChain</b> 🔗</td>
+    <td>██████░░░ Intermediate</td>
+    <td>AI Agent Building</td>
+  </tr>
+  <tr>
+    <td><b>Node.js</b> 💚</td>
+    <td>██████░░░ Intermediate</td>
+    <td>Server-side JS</td>
+  </tr>
+  <tr>
+    <td><b>MySQL</b> 🗄️</td>
+    <td>██████░░░ Intermediate</td>
+    <td>Database Design</td>
+  </tr>
+</table>
 
 ---
 
