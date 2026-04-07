@@ -43,29 +43,6 @@ philosophy  : "Automate the boring. Build the remarkable."
 I build **AI-powered automation systems** that save time, reduce friction, and create real value. My work sits at the intersection of practical software engineering and emerging AI tools — designing agents, orchestrating workflows, and exploring how LLMs can be woven into everyday systems.
 
 ---
-
-# 🔍 Interests
-
-| Domain                  | Focus                     |
-| ----------------------- | ------------------------- |
-| 🤖 AI Systems           | AI Agents, LLM workflows  |
-| ⚙️ Automation           | n8n workflow automation   |
-| 💻 Software Development | Web development & backend |
-| 💡 Innovation           | AI-powered tools          |
-
----
-
-# 🚀 Projects
-
-| Project              | Description                                        | Tech        |
-| -------------------- | -------------------------------------------------- | ----------- |
-| AI Meeting Scheduler | AI assistant that schedules meetings automatically | n8n, OpenAI |
-| Automation Workflows | Automating repetitive tasks using APIs             | n8n         |
-| Developer Portfolio  | Personal developer website                         | HTML CSS JS |
-| AI Experiments       | Building small AI automation tools                 | Python      |
-
----
-
 # 🛠 Tech Stack
 
 ### Programming Languages
