@@ -71,19 +71,23 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 
 ### Programming Languages
 
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge\&logo=jupyter\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-C69?style=for-the-badge\&logo=sass\&logoColor=white)
+![Scilab](https://img.shields.io/badge/Scilab-000000?style=for-the-badge\&logo=scilab\&logoColor=white)
 
 ---
 
-### Tools
+### Tools & Frameworks
 
+![n8n](https://img.shields.io/badge/n8n-Automation-FF6B35?style=for-the-badge\&logo=n8n)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-Automation-orange?style=for-the-badge)
 
 ---
 
