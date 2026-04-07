@@ -95,6 +95,49 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 
 ---
 
+# 📊 Languages & Frameworks Breakdown
+
+<div align="center">
+
+| Language | Percentage | Frameworks & Tools |
+|----------|------------|-------------------|
+| **Python** | 28% | FastAPI, LangChain, CrewAI |
+| **JavaScript** | 24% | React, Node.js, Vite |
+| **TypeScript** | 18% | React + TS, n8n Workflows |
+| **SQL** | 12% | MySQL, Database Design |
+| **C++** | 10% | OOP, Systems Programming |
+| **Bash** | 8% | Automation, Linux Scripts |
+
+</div>
+
+---
+
+### Skills by Category
+
+**AI & Automation**
+- LangChain, LangGraph, CrewAI
+- n8n Workflow Orchestration
+- Claude API, OpenAI, Groq
+
+**Web Development**
+- React 19 + TypeScript + Vite
+- TailwindCSS v4
+- Node.js Backend
+
+**Backend & APIs**
+- FastAPI (Python)
+- RESTful APIs
+- Webhook Integration
+
+**Data & Databases**
+- MySQL, Database Design
+- ER Modeling, Normalization
+- Stored Procedures, Transactions
+
+---
+
+---
+
 # 🏆 GitHub Achievements
 
 <div align="center">
