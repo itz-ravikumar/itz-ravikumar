@@ -31,13 +31,10 @@
 ## ⚡ About Me
 
 ```yaml
-name        : Ravi Kumar
-role        : AI Automation Developer
-education   : Diploma in Computer Science Engineering
-location    : India
-focus       : AI Agents · n8n Workflows · FinTech Exploration
-goal        : Build scalable, intelligent automation systems
-philosophy  : "Automate the boring. Build the remarkable."
+Name        : Ravi Kumar
+Education   : Diploma in Computer Science Engineering
+Goal        : Build scalable, intelligent automation systems
+Philosophy  : "Automate the boring. Build the remarkable."
 ```
 
 I build **AI-powered automation systems** that save time, reduce friction, and create real value. My work sits at the intersection of practical software engineering and emerging AI tools — designing agents, orchestrating workflows, and exploring how LLMs can be woven into everyday systems.
