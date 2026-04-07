@@ -71,13 +71,12 @@ I build **AI-powered automation systems** that save time, reduce friction, and c
 
 ### Programming Languages
 
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge\&logo=jupyter\&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37726?style=for-the-badge\&logo=jupyter\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 ![SCSS](https://img.shields.io/badge/SCSS-C69?style=for-the-badge\&logo=sass\&logoColor=white)
-![Scilab](https://img.shields.io/badge/Scilab-000000?style=for-the-badge\&logo=scilab\&logoColor=white)
+![Scilab](https://img.shields.io/badge/Scilab-1D5C92?style=for-the-badge\&logo=scilab\&logoColor=white)
 
 ---
 
