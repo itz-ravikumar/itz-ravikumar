@@ -22,8 +22,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=itz-ravikumar\&style=for-the-badge\&color=2563eb)
 
-[![GitHub followers](https://img.shields.io/github/followers/itz-ravikumar?style=for-the-badge\&color=2563eb\&labelColor=0f172a)](https://github.com/itz-ravikumar)
-
 </div>
 
 ---
